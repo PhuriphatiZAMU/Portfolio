@@ -1,6 +1,14 @@
 # 🌟 Phuriphat Hemakul - Personal Portfolio
 
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://resume-phuriphat-hemakul.vercel.app/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
+
 A modern, responsive portfolio website built with React + Vite, featuring a beautiful Navy/Teal/Cream color theme with stunning animations and glassmorphism effects.
+
+## 🔗 Live Demo
+
+**[https://resume-phuriphat-hemakul.vercel.app/](https://resume-phuriphat-hemakul.vercel.app/)**
 
 ![Portfolio Preview](https://avatars.githubusercontent.com/u/154404689?v=4)
 
@@ -25,11 +33,10 @@ A modern, responsive portfolio website built with React + Vite, featuring a beau
 ## 📁 Project Structure
 
 ```
-react-resume/
+Resume-Phuriphat-Hemakul/
 ├── public/
 │   └── favicon.svg
 ├── src/
-│   ├── assets/
 │   ├── data/
 │   │   └── translations.js
 │   ├── App.jsx
@@ -49,7 +56,7 @@ react-resume/
 git clone https://github.com/PhuriphatiZAMU/Resume-Phuriphat-Hemakul.git
 
 # Navigate to the project
-cd Resume-Phuriphat-Hemakul/react-resume
+cd Resume-Phuriphat-Hemakul
 
 # Install dependencies
 npm install
@@ -63,11 +70,9 @@ npm run build
 
 ## 🌐 Deployment
 
-This project is configured for Vercel deployment:
+This project is deployed on Vercel:
 
-1. Connect your GitHub repository to Vercel
-2. Set **Root Directory** to `react-resume`
-3. Deploy!
+**Live URL:** [resume-phuriphat-hemakul](https://resume-phuriphat-hemakul.vercel.app/)
 
 ## 👤 About Me
 
