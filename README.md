@@ -6,12 +6,6 @@
 
 A modern, responsive portfolio website built with React + Vite, featuring a beautiful Navy/Teal/Cream color theme with stunning animations and glassmorphism effects.
 
-## 🔗 Live Demo
-
-**[https://resume-phuriphat-hemakul.vercel.app/](https://resume-phuriphat-hemakul.vercel.app/)**
-
-![Portfolio Preview](https://avatars.githubusercontent.com/u/154404689?v=4)
-
 ## ✨ Features
 
 - 🎨 **Modern Design** - Navy/Teal/Cream color theme with glassmorphism
